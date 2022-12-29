@@ -11,6 +11,6 @@ More detail on the methodology could be found in **final_report.pdf**
 
 Below are a list of the files in the repository:
 
-  -**model.R**: Contains the code to perform data cleaning, feature engineering, implementing the model and generating plots
-  -**final_report.pdf**: The final report outlining the significance of the problem, the methodology for the analysis and insights gained from the results
-  -**shark_tank.csv**: Contains the first the data of the first 6 seasons of Shark Tank
+  ***model.R**: Contains the code to perform data cleaning, feature engineering, implementing the model and generating plots.
+  ***final_report.pdf**: The final report outlining the significance of the problem, the methodology for the analysis and insights gained from the results.
+  ***shark_tank.csv**: Contains the first the data of the first 6 seasons of Shark Tank.
